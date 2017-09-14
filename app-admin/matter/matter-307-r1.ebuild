@@ -12,7 +12,7 @@ HOMEPAGE="http://www.sabayon.org"
 LICENSE="GPL-2"
 
 SLOT="0"
-KEYWORDS="~amd64 ~arm ~x86"
+KEYWORDS="~amd64 ~x86 ~arm ~arm64"
 IUSE="+entropy"
 SRC_URI="mirror://sabayon/sys-apps/entropy-${PV}.tar.bz2"
 
